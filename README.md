@@ -16,9 +16,7 @@ This project trains a Generative Adversarial Network (GAN) to create fantasy-sty
 - Follow the cells step by step.
 - Upload your dataset into Colab if training on new data.
 
-## Example Outputs
 
-_Add images of your generated maps here!_
 
 ## Author
 
